@@ -1,2 +1,2 @@
 # BankingApplication
-Banking application using Java
+Banking application using Android and Java
